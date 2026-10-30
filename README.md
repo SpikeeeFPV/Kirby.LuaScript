@@ -3,9 +3,8 @@
 
 # Kirby.LuaScript
 Luascript in Kirby's theme
-
-<b><u>Install:</b></u>
-
+<p>Test on Radiomaster Boxer and Pocket Radio </p>
+<u><b>Install:</b></u>
 <p>Plug your remote control into your PC</p>
 <p>Select "SD card"</p>
 <p>Go to SD:/SCRIPTS/TELEMETRY/</p>
